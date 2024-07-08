@@ -110,18 +110,21 @@ export const testimonials = [
       "James was a real asset to the team. A master of juggling multiple tasks, keeping them to a high standard, all while continuing to improve and master his development skills. Always conscientious and diligent, James would approach every task with enthusiasm and out the box thinking. I wouldn't hesitate to work with James again.",
     name: "Oli Galvin-Jones",
     title: "Head of Sales at Pickauni",
+    image: "oli.png"
   },
   {
     quote:
       "Collaborating with James was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. James's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
+    image: "profile.svg"
   },
   {
     quote:
       "Working with James was a very simple and streamlined process. He showed enthusiasm in his work to ensure he did the best job possible to meet my requirements. He regularly kept me updated and asked questions to tailor the website to my liking. I'd recommend him wholeheartedly.",
     name: "Joshua Gabbitus",
     title: "Founder of GabbGroup Recruitment",
+    image: "josh.png"
   },
 ];
 
